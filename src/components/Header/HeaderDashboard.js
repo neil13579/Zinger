@@ -10,7 +10,7 @@ function HeaderDashboard() {
         <div className="flex items-center lg:w-auto sm:w-24 w-20">
           <Image
             src="/img/Zinger.svg"
-            alt="Zinger"
+            alt="Snac."
             className="cursor-pointer"
             width={100}
             objectFit="contain"

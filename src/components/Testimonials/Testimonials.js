@@ -9,9 +9,7 @@ function Testimonials() {
           <div className="sm:max-w-xs">
           <div className="font-extrabold text-6xl -mb-8">"</div>
             <p>
-              "Zinger is just awesome! I just launched a startup which leaves me
-              with no time for cooking, so Zinger is a life-saver. Now that I
-              got used to it, I couldn't live without my daily meals!
+              "Snac. is just awesome! Now, i wont have to stand in line waiting to pay!
             </p>
             <div className="flex items-center sm:mt-8 mt-4 gap-2">
               <div>
@@ -25,15 +23,14 @@ function Testimonials() {
                 />
               </div>
 
-              <span>Alberto Duncan</span>
+              <span> Dhruv Chabria </span>
             </div>
           </div>
           <div className="sm:max-w-xs">
             <div className="font-extrabold text-6xl -mb-8">"</div>
             <p>
               "Inexpensive, healthy and great-tasting meals, delivered right to
-              my home. We have lots of food delivery here in Lisbon, but no one
-              comes even close to Zinger. Me and my family are so in love!
+              your fingerti[s]. There have lots of CAS memebers here at TIPS, Me and my family are so in love!
             </p>
             <div className="flex items-center sm:mt-8 mt-4 gap-2">
               <div>
@@ -47,15 +44,13 @@ function Testimonials() {
                 />
               </div>
 
-              <span>Joana Silva</span>
+              <span> Diva Sathish </span>
             </div>
           </div>
           <div className="sm:max-w-xs">
            <div className="font-extrabold text-6xl -mb-8">"</div>
             <p>
-              I was looking for a quick and easy food delivery service in San
-              Franciso. I tried a lot of them and ended up with Omnifood. Best
-              food delivery service in the Bay Area. Keep up the great work!
+              I had lots of trouble getting the food i wanted from the food court. Now, thanks to Snac., i can peacefully eat while i watch my juniors play.
             </p>
             <div className="flex items-center sm:mt-8 mt-4 gap-2">
               <div>
@@ -69,7 +64,7 @@ function Testimonials() {
                 />
               </div>
 
-              <span>Milton Chapman</span>
+              <span>D.Rohit</span>
             </div>
           </div>
         </div>

@@ -15,22 +15,21 @@ function HowItWork() {
               <CursorClickIcon className="sm:w-14 w-10 text-primary-light mx-auto" />
               <h3 className="font-medium sm:text-2xl text-xl">Pick Meal</h3>
               <h4 className="max-w-xs mx-auto sm:text-base text-sm">
-                Choose a meal from our diverse weekly menu.
+                Choose a meal from our diverse menu.
               </h4>
             </div>
             <div className="flex flex-col items-center sm:gap-6 gap-4">
               <CreditCardIcon className="sm:w-14 w-10 text-primary-light mx-auto" />
               <h3 className="font-medium sm:text-2xl text-xl">Checkout</h3>
               <h4 className="max-w-xs mx-auto  sm:text-base text-sm">
-                Fill address, all the necessary details and make payment.
+                Select the food you want, pay online, then recieve your unique QR code
               </h4>
             </div>
             <div className="flex flex-col items-center sm:gap-6 gap-4">
               <TruckIcon className="sm:w-14 w-10 text-primary-light mx-auto" />
               <h3 className="font-medium sm:text-2xl text-xl">Fast Delivery</h3>
               <h4 className="mx-auto max-w-xs  sm:text-base text-sm">
-                Freshly prepared meal arrive on your doorstep in a refigerated
-                box.
+                Freshly prepared meal served at your fingertips
               </h4>
             </div>
           </div>

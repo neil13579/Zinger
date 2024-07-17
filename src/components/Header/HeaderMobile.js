@@ -23,7 +23,7 @@ function HeaderMobile() {
             <div className="flex items-center">
               <Image
                 src="/img/Zinger.svg"
-                alt="Zinger"
+                alt="Snac."
                 className="cursor-pointer"
                 width={75}
                 objectFit="contain"
